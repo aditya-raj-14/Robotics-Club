@@ -684,7 +684,7 @@ hr {
     color: #fff;
     font-size: 1.40em;
     padding: 10px 20px;
-    background-color: #000;
+/*     background-color: #000; */
     border-radius: 10px;
     text-align: left;
     transition: transform 0.3s, background-color 0.3s;
